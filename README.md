@@ -32,8 +32,15 @@ SQL database implementation of e-library workflow
 # Design Requirements
 
 * Using Crow' notation.
-* 
-test
+* Specify the primary key fields in each table by 'PK' beside the left the field.
+* Specify the foreign key fields in each table by 'FK' beside the left the field.
+* Drawing a line between the fields of each table and should be pointed directly to the fields in each table that are used to form the relationship.
+* Specify a relationship as one or many by drawing a perpendicular line or a three-pronged line.
+* Specify a relationship as mandatory or optional by drawing a perpendicular line or open circle.
+* Each constraint was written beside each field.
 
+# ERD Diagram
+
+![ERD Diagram](pics/ERD.drawio.png)
 
 
