@@ -7,6 +7,7 @@ SQL database implementation of e-library workflow
 * Purpose
 * Business Rules
 * Design Requirements
+* Decision Design
 * ERD diagram
 
 ## Database's Purpose
