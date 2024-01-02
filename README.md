@@ -9,6 +9,7 @@ SQL database implementation of e-library workflow
 * Design Requirements
 * Decision Design
 * ERD diagram
+* List of tables
 
 ## Database's Purpose
 
@@ -45,4 +46,16 @@ SQL database implementation of e-library workflow
 
 ![ERD Diagram](pics/ERD.drawio.png)
 
+# List of tables
+
+| List of tables | Description |
+|------------|----------------------|
+| libraries | This table stores libraries |
+| books | This table stores book of libraries |
+| book_categories | This table stores the categories of books |
+| book_availability | This table stores the availability of books |
+| users | This table stores of regiestered users |
+| loans | This table stores record of loan of books |
+| holds | This table stores record of hold of books |
+| rating | This table stores rating of books |
 
