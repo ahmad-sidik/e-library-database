@@ -12,8 +12,9 @@ SQL database implementation of e-library workflow
 
 ## Database's Purpose
 
-* To design and maintain books, multiple libraries, library members (users), loans, holding, and rating' books
+* To design and maintain books, multiple libraries, library members (users), loans, holding, and rating' books.
 * It includes categories of books, where books are available, and the data privacy of users.
+* As well as maintain books in different libraries.
 * Reports are generated to visualize the data in a better manner.
 
 ## Business Rules
